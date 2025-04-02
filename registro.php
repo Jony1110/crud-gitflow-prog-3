@@ -7,6 +7,7 @@ plantilla::aplicar();
 Plantilla::navbar();
 
 // <!-- Rama: feature/editar-personaje -->
+// <!-- Rama: feature/editar-personaje -->
 
 // Verificar si se está editando un personaje existente
 $personaje = null;
