@@ -1,5 +1,3 @@
-# crud-gitflow-prog-3
-
 # 🧠 Proyecto CRUD - Programación III
 
 ## 📚 Información General
