@@ -4,9 +4,8 @@
 
 **Materia:** Programación III  
 **Profesor:** Kelyn Tejada  
-**Estudiante:** [Tu Nombre Aquí]  
-**Matrícula:** [Tu Matrícula Aquí]  
-**Tarea Individual – Valor: 10 puntos**
+**Estudiante:** Jonathan Jose Frias Martinez  
+**Matrícula:** 20231117 
 
 Este repositorio contiene un proyecto funcional tipo **CRUD** desarrollado como parte de la asignación individual. El proyecto fue construido utilizando tecnologías web (PHP, HTML y CSS), aplicando el flujo de trabajo **Git Flow** de manera estructurada y organizada.
 
